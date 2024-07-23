@@ -11,7 +11,7 @@ def home():
         <title>Master The AWS Code Pipeline</title>
     </head>
     <body>
-        <h1>Welcome to Learning Space</h1>
+        <h1>Master The AWS Code Pipeline</h1>
         <p>Successfully Completed the Build and Deployment of the code from AWS Code Pipeline</p>
     </body>
     </html>
