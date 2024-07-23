@@ -8,7 +8,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Learning AWS Code Pipeline</title>
+        <title>Master The AWS Code Pipeline</title>
     </head>
     <body>
         <h1>Welcome to Learning Space</h1>
