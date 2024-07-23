@@ -8,11 +8,11 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Simple Flask Web Page</title>
+        <title>Learning AWS Code Pipeline</title>
     </head>
     <body>
-        <h1>Welcome to My Simple Flask Web Page</h1>
-        <p>This is a basic example of a web page served with Flask.</p>
+        <h1>Welcome to Learning Space</h1>
+        <p>Successfully Completed the Build and Deployment of the code from AWS Code Pipeline</p>
     </body>
     </html>
     """
